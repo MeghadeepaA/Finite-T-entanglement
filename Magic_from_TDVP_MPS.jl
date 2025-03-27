@@ -11,6 +11,10 @@ using JLD
 using CSV, DataFrames, Printf
 using Plots
 
+"""
+Just a test change
+"""
+
 ############
 global n_r   = 2      ## Rényi index >1
 global n_sam = 2000  #### larger sampling is making the error increase !!!
